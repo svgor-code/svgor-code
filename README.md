@@ -10,12 +10,6 @@
   possibilities of decentralized applications and blockchain technology
 </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=svgor-code&label=Profile%20views&color=0e75b6&style=flat"
-    alt="svgor-code"
-  />
-</p>
 
 <p>
   <img
