@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Konstantin</h1>
+<p align="left">
+  I'm a passionate Software Developer immersed in the vast universe of coding
+  and technology. I paint my projects with the code, bringing innovative ideas
+  to life.
+</p>
 
-<!--
-**svgor-code/svgor-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  Currently, I'm diving deep into the Web 3.0 wave 🌊, exploring the endless
+  possibilities of decentralized applications and blockchain technology
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=svgor-code&label=Profile%20views&color=0e75b6&style=flat"
+    alt="svgor-code"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=svgor-code&show_icons=true&locale=en&layout=compact"
+    alt="svgor-code"
+  />
+</p>
