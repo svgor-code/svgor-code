@@ -10,6 +10,7 @@
   possibilities of decentralized applications and blockchain technology
 </p>
 
+---
 
 <p>
   <img
