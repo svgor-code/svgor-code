@@ -5,11 +5,6 @@
   to life.
 </p>
 
-<p align="left">
-  Currently, I'm diving deep into the Web 3.0 wave 🌊, exploring the endless
-  possibilities of decentralized applications and blockchain technology
-</p>
-
 ---
 
 <p>
